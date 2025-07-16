@@ -1,0 +1,57 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f6ff;
+  margin: 0;
+  padding: 0;
+  color: #003366;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #002244;
+  margin-bottom: 40px;
+}
+
+div.year {
+  margin-bottom: 40px;
+  border-left: 5px solid #0077cc;
+  padding-left: 20px;
+}
+
+.semester {
+  margin-bottom: 20px;
+}
+
+h2, h3 {
+  color: #0055aa;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  background-color: #e0ecff;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+li:hover {
+  background-color: #cce4ff;
+}
+
+li.completed {
+  text-decoration: line-through;
+  background-color: #b0d0ff;
+  color: gray;
+}
