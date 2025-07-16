@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Malla Ingeniería</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Malla Curricular - Ingeniería Eléctrica</h1>
+
+    <div class="year">
+      <h2>Primer Año</h2>
+      <div class="semester">
+        <h3>Semestre 1</h3>
+        <ul>
+          <li>MA1001 – Introducción al cálculo (6 créditos)</li>
+          <li>MA1101 – Introducción al álgebra (6 créditos)</li>
+          <li>FI1000 – Introducción a la física clásica (6 créditos)</li>
+          <li>CC1000 – Herramientas computacionales para ingeniería y ciencias (3 créditos)</li>
+          <li>CD1100 – Desafíos de innovación en ingeniería y ciencias (6 créditos)</li>
+          <li>CT1211 – Aplicaciones de la biología a la ingeniería y ciencias (3 créditos)</li>
+        </ul>
+      </div>
+      <div class="semester">
+        <h3>Semestre 2</h3>
+        <ul>
+          <li>MA1002 – Cálculo Diferencial e Integral (6 créditos)</li>
+          <li>MA1102 – Álgebra Lineal (6 créditos)</li>
+          <li>FI1100 – Introducción a la Física Moderna (6 créditos)</li>
+          <li>CC1002 – Introducción a la Programación (6 créditos)</li>
+          <li>Proyecto de innovación en ingeniería y ciencias (3 créditos)</li>
+          <li>Boxeo (3 créditos)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="year">
+      <h2>Segundo Año</h2>
+      <div class="semester">
+        <h3>Semestre 3</h3>
+        <ul>
+          <li>Cálculo en Varias Variables (6 créditos)</li>
+          <li>Ecuaciones Diferenciales Ordinarias (6 créditos)</li>
+          <li>Métodos Experimentales (6 créditos)</li>
+          <li>Mecánica (6 créditos)</li>
+          <li>Química (6 créditos)</li>
+        </ul>
+      </div>
+      <div class="semester">
+        <h3>Semestre 4</h3>
+        <ul>
+          <li>Economía (6 créditos)</li>
+          <li>Cálculo avanzado y aplicaciones (6 créditos)</li>
+          <li>Electromagnetismo (6 créditos)</li>
+          <li>Termodinámica Física (6 créditos)</li>
+          <li>Electivo 2 (3 créditos)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="year">
+      <h2>Tercer Año</h2>
+      <div class="semester">
+        <h3>Semestre 5</h3>
+        <ul>
+          <li>Análisis y diseño de circuitos eléctricos (6 créditos)</li>
+          <li>Sistemas digitales (6 créditos)</li>
+          <li>Electromagnetismo aplicado (6 créditos)</li>
+          <li>Probabilidad y procesos estocásticos (6 créditos)</li>
+          <li>Seminario de ingeniería eléctrica e innovación tecnológica (6 créditos)</li>
+        </ul>
+      </div>
+      <div class="semester">
+        <h3>Semestre 6</h3>
+        <ul>
+          <li>Laboratorio de ingeniería eléctrica (6 créditos)</li>
+          <li>Circuitos eléctricos analógicos (6 créditos)</li>
+          <li>Análisis de señales (6 créditos)</li>
+          <li>Análisis de sistemas dinámicos y estimación (6 créditos)</li>
+          <li>Electivo 3-4 (6 créditos)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="year">
+      <h2>Cuarto Año</h2>
+      <div class="semester">
+        <h3>Semestre 7</h3>
+        <ul>
+          <li>Conversión de la energía y sistemas electrónicos (6 créditos)</li>
+          <li>Principios de comunicaciones (6 créditos)</li>
+          <li>Fundamentos de control de sistemas (6 créditos)</li>
+          <li>Optimización (6 créditos)</li>
+          <li>Electivo otros departamentos (6 créditos)</li>
+          <li>Práctica profesional 1 (7 créditos)</li>
+        </ul>
+      </div>
+      <div class="semester">
+        <h3>Semestre 8</h3>
+        <ul>
+          <li>Núcleo de línea de especialización (7 créditos)</li>
+          <li>Laboratorio (6 créditos)</li>
+          <li>Programación avanzada (6 créditos)</li>
+          <li>Formulación y evaluación de proyectos (6 créditos)</li>
+          <li>Electivo (6 créditos)</li>
+          <li>Examen de inglés</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="year">
+      <h2>Quinto Año</h2>
+      <div class="semester">
+        <h3>Semestre 9</h3>
+        <ul>
+          <li>Taller de proyectos tecnológicos (12 créditos)</li>
+          <li>Electivos de línea de especialización (18 créditos)</li>
+          <li>Práctica profesional 2 (14 créditos)</li>
+        </ul>
+      </div>
+      <div class="semester">
+        <h3>Semestre 10</h3>
+        <ul>
+          <li>Taller de emprendimiento e innovación (6 créditos)</li>
+          <li>Introducción al trabajo de título (6 créditos)</li>
+          <li>Electivos de línea de especialización (18 créditos)</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="year">
+      <h2>Sexto Año</h2>
+      <div class="semester">
+        <h3>Semestre 11</h3>
+        <ul>
+          <li>Taller de desempeño profesional</li>
+          <li>Trabajo de título (27 créditos)</li>
+          <li>Examen de inglés 2</li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>
